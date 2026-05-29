@@ -1,0 +1,16 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Build / packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Generated media (test output)
+*.gif
+!docs/**/*.gif
+
+# Virtual environments
+.venv/
+venv/
