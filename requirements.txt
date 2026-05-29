@@ -1,0 +1,4 @@
+# Optional: bundles a static ffmpeg binary so users don't need to install it
+# system-wide (very convenient on Windows). If omitted, TOgif will look for
+# ffmpeg on the system PATH instead.
+imageio-ffmpeg>=0.4.9
